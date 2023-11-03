@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Link
 
-weather-appreactapi.netlify.app
+https://weather-appreactapi.netlify.app
 
 ## Available Scripts
 
