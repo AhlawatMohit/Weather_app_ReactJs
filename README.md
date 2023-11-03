@@ -8,6 +8,11 @@ https://github.com/AhlawatMohit/Weather_app_ReactJs/assets/73514102/2c7da584-f76
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Live Link
+
+weather-appreactapi.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
